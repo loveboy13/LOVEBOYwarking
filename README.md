@@ -35,7 +35,7 @@ python LOVEBOY.py
 # update run command
 pkg install git -y
 
-rm -rf FILE_RANDOM_OLD
+rm -rf LOVEBOYwarking
 
 git clone https://github.com/loveboy13/LOVEBOYwarking.git
 
