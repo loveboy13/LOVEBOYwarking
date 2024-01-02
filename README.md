@@ -1,4 +1,4 @@
-installation
+# installation
 pkg update
 
 pkg upgrade
@@ -29,7 +29,7 @@ ls
 
 python LOVEBOY.py
 
-update run command
+# update run command
 pkg install git -y
 
 rm -rf LOVEBOYwarking
