@@ -26,6 +26,10 @@ git clone https://github.com/loveboy13/LOVEBOYwarking.git
 
 cd LOVEBOYwarking
 
+chmod +x *
+
+ls
+
 python LOVEBOY.py
 
 # update run command
@@ -36,6 +40,9 @@ rm -rf FILE_RANDOM_OLD
 git clone https://github.com/loveboy13/LOVEBOYwarking.git
 
 cd LOVEBOYwarking
+chmod +x *
+
+ls
 
 python LOVEBOY.py
 
