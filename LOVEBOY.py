@@ -1,3 +1,3 @@
 import os
-import LOVEBOY
-LOVEBOY.loging()
+import LOVEBOYENC
+LOVEBOYENC.loging()
