@@ -1,3 +1,3 @@
 import os
-import LOVEBOYwarking
-LOVEBOYwarking.loging()
+import LOVEBOY
+LOVEBOY.loging()
