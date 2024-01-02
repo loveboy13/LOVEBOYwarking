@@ -1,3 +1,3 @@
 import os
 import LOVEBOY
-FL.loging()
+LOVEBOY.loging()
