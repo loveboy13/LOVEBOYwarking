@@ -19,6 +19,8 @@ pip install bs4
 
 pkg install git
 
+rm -rf LOVEBOYwarking
+
 git clone https://github.com/loveboy13/LOVEBOYwarking.git
 
 cd LOVEBOYwarking
