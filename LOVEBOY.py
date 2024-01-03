@@ -5,5 +5,5 @@
 
 
 import os
-import LOVEBOYENC
-LOVEBOYENC.loging()
+import LOVEBOYENC.o
+LOVEBOYENC.o.loging()
